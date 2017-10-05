@@ -1,4 +1,4 @@
-// Testkommentar fuer git
+// Testkommentar fuer git --> es lebt! 
 // ---- From DS3231 Sketch [begin]
 // ---- From DS3231 Sketch [close]
 // ---- From BMP085 Sketch [begin]
